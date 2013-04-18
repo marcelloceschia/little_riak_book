@@ -1,8 +1,8 @@
-# Introduction
+# Einleitung
 
 ## Downtime Roulette
 
-![Gambling With Uptime](../assets/decor/roulette.png)
+![Das Spiel mit der Ausfallzeit](../assets/decor/roulette.png)
 
 Picture a roulette wheel in a casino, where any particular number has a 1 in 37 chance of being hit. Imagine you could place a single bet that a given number will *not* hit (about 97.3% in your favor), and winning would pay out 10 times your wager. Would you make that bet? I'd reach for my wallet so fast my thumb would start a fire on my pocket.
 
